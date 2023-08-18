@@ -1,0 +1,7 @@
+C:\Users\fatma\source\repos\AtmProject\AtmProject\bin\Debug\AtmProject.exe.config
+C:\Users\fatma\source\repos\AtmProject\AtmProject\bin\Debug\AtmProject.exe
+C:\Users\fatma\source\repos\AtmProject\AtmProject\bin\Debug\AtmProject.pdb
+C:\Users\fatma\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.exe
+C:\Users\fatma\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.pdb
